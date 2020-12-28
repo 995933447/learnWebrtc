@@ -4,13 +4,13 @@
 ## Build Setup
 
 ``` bash
-# 三步即可开启本地预览
-# install dependencies   
-npm i   
+# 三步即可开启本地预览  
 # 开启服务端
 npm run start   
+# install dependencies   
+cd rtcdemo && npm i 
 # 开启客户端（另开一个终端）
-npm run toc 
+npm run dev 
 
 ```
 
